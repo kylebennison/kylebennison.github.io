@@ -1,4 +1,4 @@
-# Kyle Bennison
+# About Me
 WIP data scientist
 - cleaning, visualizing, and modeling data in R since 2017
 - actively learning Python
